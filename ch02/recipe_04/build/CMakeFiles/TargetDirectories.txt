@@ -1,0 +1,3 @@
+/home/wenhu/cmake_test/ch02/recipe_04/build/CMakeFiles/arch-dependent.dir
+/home/wenhu/cmake_test/ch02/recipe_04/build/CMakeFiles/edit_cache.dir
+/home/wenhu/cmake_test/ch02/recipe_04/build/CMakeFiles/rebuild_cache.dir
