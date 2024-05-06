@@ -1,0 +1,4 @@
+/home/wenhu/cmake_test/ch01/recipe_08/build/CMakeFiles/geometry.dir
+/home/wenhu/cmake_test/ch01/recipe_08/build/CMakeFiles/computer_area.dir
+/home/wenhu/cmake_test/ch01/recipe_08/build/CMakeFiles/edit_cache.dir
+/home/wenhu/cmake_test/ch01/recipe_08/build/CMakeFiles/rebuild_cache.dir

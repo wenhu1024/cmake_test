@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/computer_area.dir/computer_area.cpp.o -o computer_area  libgeometry.a 
