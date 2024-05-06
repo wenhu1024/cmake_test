@@ -1,0 +1,4 @@
+/home/wenhu/cmake_test/ch01/recipe_09/build/CMakeFiles/animals.dir
+/home/wenhu/cmake_test/ch01/recipe_09/build/CMakeFiles/animal-farm.dir
+/home/wenhu/cmake_test/ch01/recipe_09/build/CMakeFiles/edit_cache.dir
+/home/wenhu/cmake_test/ch01/recipe_09/build/CMakeFiles/rebuild_cache.dir
