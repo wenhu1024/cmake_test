@@ -1,0 +1,3 @@
+/home/wenhu/cmake_test/ch02/recipe_03/build/CMakeFiles/hello-world.dir
+/home/wenhu/cmake_test/ch02/recipe_03/build/CMakeFiles/edit_cache.dir
+/home/wenhu/cmake_test/ch02/recipe_03/build/CMakeFiles/rebuild_cache.dir
