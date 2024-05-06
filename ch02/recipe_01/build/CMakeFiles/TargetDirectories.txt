@@ -1,0 +1,2 @@
+/home/wenhu/cmake_test/ch02/recipe_01/build/CMakeFiles/edit_cache.dir
+/home/wenhu/cmake_test/ch02/recipe_01/build/CMakeFiles/rebuild_cache.dir
